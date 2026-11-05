@@ -1,8 +1,14 @@
 <div align="center">
 
 ```
+<div align="center">
+
+<pre>
 $ whoami
 arthurtofoli-tech
+</pre>
+
+</div>
 ```
 
 <a href="https://github.com/arthurtofoli-tech">
@@ -55,7 +61,13 @@ class Arthur:
 <div align="center">
 
 ```
+<div align="center">
+
+<pre>
 $ exit 0
+</pre>
+
+</div>
 ```
 
 </div>
