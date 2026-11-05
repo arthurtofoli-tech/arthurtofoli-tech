@@ -1,4 +1,3 @@
-<h1 align="center">$ whoami</h1>
 <h3 align="center">arthurtofoli-tech</h3>
 
 <p align="center">
@@ -33,5 +32,3 @@ class Arthur:
 ### > contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/SEU-LINKEDIN)
-
-<p align="center"><code>$ exit 0</code></p>
