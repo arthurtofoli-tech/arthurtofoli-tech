@@ -31,4 +31,4 @@ class Arthur:
 
 ### > contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=00FF41)](www.linkedin.com/in/arthur-tofoli)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/arthur-tofoli/)
