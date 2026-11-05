@@ -27,7 +27,8 @@ class Arthur:
 
 | Projeto | Descrição |
 |---|---|
-| [nome-do-projeto](https://github.com/arthurtofoli-tech/nome-do-projeto) | Descrição curta |
+| [to-do-list](https://github.com/arthurtofoli-tech/to-do-list) | Gerenciador de tarefas via linha de comando |
+| [mp3-player](https://github.com/arthurtofoli-tech/mp3-player) | Player de música no terminal com pygame |
 
 ### > contato
 
